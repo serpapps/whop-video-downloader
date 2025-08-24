@@ -1,4 +1,4 @@
-name: call Generate README
+name: call generate README
 
 on:
   workflow_dispatch:
@@ -11,4 +11,6 @@ on:
 jobs:
   call-workflow:
     uses: serpapps/.github/.github/workflows/generate-readme-from-json.yml@main
+    permissions:
+      contents: write
     secrets: inherit
