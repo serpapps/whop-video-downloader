@@ -2,20 +2,17 @@
   "id": 85,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Whop Video Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/whop-video-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/whop-video-downloader",
   "purchase_url": "https://serp.ly/whop-video-downloader",
   "store_product_id": null,
   "name": "Whop Video Downloader",
-  "tagline": "https://serp.ly/whop-video-downloader",
-  "featured_image": "images/whop-video-downloader.jpg",
-  "featured_image_gif": "images/whop-video-downloader.gif",
+  "tagline": "Download Whop marketplace courses and digital products",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/whop-video-downloader/assets/images/whop-video-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/whop-video-downloader/assets/images/whop-video-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/whop-video-downloader",
   "github_repo_tags": [
-    "whop-video-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "whop-video-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -55,13 +52,11 @@
     "Node.js",
     "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/whop-video-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/whop-video-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/whop-video-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "community site"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,21 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/whop-video-downloader",
     "https://devinschumacher.com/whop-video-downloader",
-    "https://serp.co/products/whop-video-downloader/reviews/"
+    "https://serp.co/products/whop-video-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "whop-video",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "whop video downloader"
   ]
 }
