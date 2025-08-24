@@ -14,7 +14,7 @@
   "github_repo_tags": [
     "whop-video-downloader"
   ],
-  "github_gist_url": null,
+  "github_gist_url": "https://gist.github.com/devinschumacher/5ce08c8de7b729e2e9805d91c2fdc123",
   "features": [
     "Stream-to-file conversion",
     "HD quality downloads",
