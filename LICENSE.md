@@ -1,5 +1,7 @@
 # MIT License
 
+Gist: https://gist.github.com/devinschumacher/5ce08c8de7b729e2e9805d91c2fdc123
+
 Copyright (c) 2025 serpapps
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
