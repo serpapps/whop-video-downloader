@@ -19,6 +19,7 @@ Whop Video Downloader is a powerful tool that helps you download content from Wh
 - 💌 [Newsletter](https://serp.ly/@serp/email)
 - 🛒 [Shop](https://serp.ly/@serp/store)
 - 🎓 [Courses](https://serp.ly/@serp/courses)
+- 📚 [Loom Research Documentation](CONTRIBUTING.md) - Technical guide for Loom video downloading
 
 ## Features
 
