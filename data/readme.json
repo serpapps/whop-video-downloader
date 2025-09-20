@@ -1,0 +1,84 @@
+{
+  "id": 85,
+  "created_at": "2025-01-23T00:00:00Z",
+  "seo_title": "Whop Video Downloader - Free Content Download Tool",
+  "seo_description": null,
+  "product_page_url": "https://store.serp.co/product-details/product/whop-video-downloader",
+  "purchase_url": "https://serp.ly/whop-video-downloader",
+  "store_product_id": null,
+  "name": "Whop Video Downloader",
+  "tagline": "Download Whop marketplace courses and digital products",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/whop-video-downloader/assets/images/whop-video-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/whop-video-downloader/assets/images/whop-video-downloader.gif",
+  "github_repo_url": "https://github.com/serpapps/whop-video-downloader",
+  "github_repo_tags": [
+    "whop-video-downloader"
+  ],
+  "github_gist_url": "https://gist.github.com/devinschumacher/5ce08c8de7b729e2e9805d91c2fdc123",
+  "features": [
+    "Stream-to-file conversion",
+    "HD quality downloads",
+    "Batch download support",
+    "Resume interrupted downloads",
+    "No watermarks",
+    "Content extraction"
+  ],
+  "chrome_web_store_url": null,
+  "description": "Whop Video Downloader is a powerful tool that helps you download content from Whop Video instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
+  "product_video": null,
+  "related_videos": null,
+  "changelog": null,
+  "version_number": 1,
+  "updated_at": "2025-01-23T00:00:00Z",
+  "troubleshooting_instructions": [],
+  "installation_instructions": "1. Clone the repository: git clone https://github.com/serpapps/whop-video-downloader\n2. Install dependencies\n3. Configure settings\n4. Run the application",
+  "usage_instructions": [
+    "Open the application",
+    "Enter the URL of the content you want to download",
+    "Select your preferred quality and format",
+    "Click download to start the process",
+    "Files will be saved to your specified directory"
+  ],
+  "faqs": null,
+  "supported_operating_systems": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "status": "live",
+  "technologies": [
+    "Python",
+    "JavaScript",
+    "Node.js",
+    "Automation"
+  ],
+  "serpco_product_page_link": "https://serp.co/products/whop-video-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/whop-video-downloader/reviews/",
+  "file_formats": null,
+  "categories": [
+    "community site"
+  ],
+  "extraction_targets": null,
+  "content_medium": null,
+  "discovery_source": null,
+  "related_articles": null,
+  "related_gists": null,
+  "funding_links_github": [
+    "devinschumacher"
+  ],
+  "funding_links_liberapay": [
+    "devinschumacher"
+  ],
+  "funding_links_opencollective": [
+    "devinschumacher"
+  ],
+  "funding_links_custom": [
+    "https://serpapps.github.io/whop-video-downloader",
+    "https://devinschumacher.com/whop-video-downloader",
+    "https://serp.co/products/whop-video-downloader/",
+    "https://github.com/sponsors/devinschumacher"
+  ],
+  "keywords": [
+    "whop video downloader"
+  ]
+}
