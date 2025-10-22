@@ -20,6 +20,7 @@ Whop Video Downloader is a powerful tool that helps you download content from Wh
 - 🛒 [Shop](https://serp.ly/@serp/store)
 - 🎓 [Courses](https://serp.ly/@serp/courses)
 
+
 ## Features
 
 - Stream-to-file conversion
@@ -55,17 +56,25 @@ Whop Video Downloader is a powerful tool that helps you download content from Wh
 
 - 📁 Repository [here](https://github.com/serpapps/whop-video-downloader)
 - 📝 Gist [here](https://gist.github.com/devinschumacher/5ce08c8de7b729e2e9805d91c2fdc123)
+- [How to Download Videos from Whop (Mux Streams) with yt-dlp](https://gist.github.com/devinschumacher/c7c8f9e1ca821afcaeccefde131c80c6)
 
 <details>
+  
 <summary>Keywords</summary>
 
-whop video downloader
+- whop video downloader
+- how to download videos from whop
+- how to download whop videos
+- download videos from whop
+- how to download videos from whop platform
+- can you download videos from whop
+  
 </details>
 
 
 ---
 
-
+  
 <details>
   <summary>
     How to Download Whop Videos
@@ -74,12 +83,6 @@ whop video downloader
 # Whop Video Download Research: Technical Analysis of Marketplace Infrastructure, Stream Patterns, and Download Methods
 
 *A comprehensive research document analyzing Whop's digital product delivery infrastructure, video hosting patterns, marketplace architecture, and optimal download strategies using modern tools*
-
-**Authors**: SERP Apps
-**Date**: January 2025  
-**Version**: 1.0
-
----
 
 ## Abstract
 
