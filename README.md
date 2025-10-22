@@ -2,9 +2,14 @@
 
 > Download Whop marketplace courses and digital products
 
-![Whop Video Downloader](https://raw.githubusercontent.com/serpapps/whop-video-downloader/assets/images/whop-video-downloader.gif)
-
 Whop Video Downloader is a powerful tool that helps you download content from Whop Video instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
+
+## watch the video 👇
+
+<a href="https://www.youtube.com/watch?v=oWmu4MOS2HE" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-whop-videos-for-free-step-by-step-guide-to-downloading-videos-from-whopcom.jpg" width="700px">
+</a>
+
 
 ## 🔗 Links
 
