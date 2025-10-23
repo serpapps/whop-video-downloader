@@ -1,8 +1,21 @@
 # Whop Video Downloader
 
-> Download Whop marketplace courses and digital products
 
-Whop Video Downloader is a powerful tool that helps you download content from Whop Video instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
+Whop Video Downloader is a simple tool designed to make it effortless to download videos from Whop. 
+
+Whether you’re an educator, content creator, or just saving materials for offline viewing, this lightweight command-line utility gives you complete control over your Whop content — safely, quickly, and without the hassle of manual downloads.
+
+With an intuitive setup, clear output, and minimal dependencies, it’s the perfect companion for anyone looking to automate their video access or archive course materials locally.
+
+**Features:**
+
+🎬 Fast Downloads: Grab videos from Whop instantly with a simple command.
+🔒 Secure & Reliable: Your credentials stay local — no hidden tracking or cloud storage.
+⚙️ Easy to Use: Minimal setup, clear instructions, and friendly CLI feedback.
+🧩 Customizable Output: Choose where and how your videos are saved.
+💡 Open Source: Transparent, community-driven, and free for everyone.
+
+Whop Video Downloader was built for users who want freedom and flexibility over their Whop content. Instead of being tied to an online dashboard, you can download and manage your videos offline — perfect for personal archiving, note-taking, or viewing without internet access.
 
 ## watch the video 👇
 
