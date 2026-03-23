@@ -11,20 +11,13 @@ SERP Whop Downloader is a browser extension built specifically for saving conten
 
 If you have purchased a course or joined a community on Whop and want to keep the content on your device, this extension handles it all directly in your browser.
 
-## 🔗 Links
+## Links
 
-- 🎁 Get it [**here**](https://serp.ly/whop-video-downloader)
-- ❓ Check FAQs [**here**](https://help.serp.co/en/)
-- 🐛 Report bugs [**here**](https://github.com/serpapps/whop-video-downloader/issues)
-- 🆕 Request features [**here**](https://github.com/serpapps/whop-video-downloader/discussions)
-- 📦 Latest release [**here**](https://github.com/serpapps/whop-video-downloader/releases/latest)
-
-## Resources
-
-- 💬 [**Community**](https://community.serp.co)
-- 💌 [**Newsletter**](https://newsletter.serp.co)
-- 🛒 [**Shop**](https://store.serp.co)
-- 🎓 [**Courses**](https://courses.serp.co)
+- :rocket: Get it here: [Whop Downloader](https://serp.ly/whop-video-downloader)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/whop-video-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/whop-video-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/whop-video-downloader/discussions)
 
 ## Why Whop Downloader
 
@@ -149,20 +142,12 @@ Make sure you are on a Whop page with visible content. Click Rescan in the popup
 
 Yes. All processing happens entirely in your browser. Authentication uses a secure one-time code — no passwords stored.
 
-## Important Notes
-
-Users are responsible for ensuring they have the right to download content. This extension is intended for downloading content you own or have permission to download. A Whop account with purchased content is required to access course material. Content must be visible on the page, so scroll to load more items before downloading. Quality depends on what the source provides. An active internet connection is required.
-
-## watch the video 👇
+## Watch the Video
 
 <a href="https://www.youtube.com/watch?v=oWmu4MOS2HE" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-whop-videos-for-free-step-by-step-guide-to-downloading-videos-from-whopcom.jpg" width="700px">
 </a>
 
-## Keywords
+## License
 
-`whop downloader` `whop video downloader` `download whop` `whop mp4` `whop browser extension` `whop course downloader` `save whop videos`
-
-## Get It
-
-- **Start here:** [SERP Whop Downloader](https://serp.ly/whop-video-downloader)
+This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
