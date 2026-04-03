@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Browser extension for saving Whop course and member-only videos as MP4 using your active session for offline viewing.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "whop-video-downloader",
+  "readme": "../README.md",
+  "title": "Whop Video Downloader",
+  "version": "0.0"
+}
