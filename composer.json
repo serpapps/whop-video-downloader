@@ -1,0 +1,24 @@
+{
+    "name": "serpapps/whop-video-downloader",
+    "type": "library",
+    "description": "Download videos from your Whop classes and backup your hard work",
+    "keywords": [
+        "whop-video-downloader",
+        "whop-downloader",
+        "browser-extension",
+        "course-video-downloader",
+        "membership-site-downloader"
+    ],
+    "homepage": "https://github.com/serpapps/whop-video-downloader",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SERP Apps",
+            "homepage": "https://github.com/serpapps",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
