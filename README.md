@@ -1,4 +1,4 @@
-# Whop Downloader  (Browser Extension)
+# Whop Downloader  (Browser Extension) | How to Download Whop Videos
 
 > Browser extension that lets you download Whop videos, images, and text posts directly to your computer — detects every piece of downloadable content on the page and organizes it by type, no extra software required.
 
