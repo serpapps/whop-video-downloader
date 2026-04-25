@@ -144,7 +144,7 @@ Yes. All processing happens entirely in your browser. Authentication uses a secu
 
 ## Watch the Video
 
-<a href="https://www.youtube.com/watch?v=oWmu4MOS2HE" target="_blank">
+<a href="https://www.youtube.com/watch?v=g7aEw_aHnoM" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-whop-videos-for-free-step-by-step-guide-to-downloading-videos-from-whopcom.jpg" width="700px">
 </a>
 
