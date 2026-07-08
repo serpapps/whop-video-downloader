@@ -13,7 +13,7 @@ If you have purchased a course or joined a community on Whop and want to keep th
 
 ## Links
 
-- :rocket: Get it here: [Whop Downloader](https://serp.ly/whop-video-downloader)
+- :rocket: Get it here: [Whop Downloader](https://serp.ly/whop-video-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/whop-video-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/whop-video-downloader/issues)
@@ -38,7 +38,7 @@ SERP Whop Downloader was purpose-built for Whop. It understands the platform's p
 
 ## How It Works
 
-1. **Install** — Add SERP Whop Downloader to your browser from the [product page](https://serp.ly/whop-video-downloader), or download the latest version from [GitHub Releases](https://github.com/serpapps/whop-video-downloader/releases/latest) and load it manually
+1. **Install** — Add SERP Whop Downloader to your browser from the [product page](https://serp.ly/whop-video-downloader?via=github), or download the latest version from [GitHub Releases](https://github.com/serpapps/whop-video-downloader/releases/latest) and load it manually
 2. **Open your Whop content** — Head to Whop and navigate to any course, lesson, or community post you want to save
 3. **Let it detect everything** — Click the extension icon. The popup scans the page and shows all found videos, images, and text posts sorted into tabs.
 4. **Save what you need** — Download items individually, use the overlay button on a video player, or hit "Download Visible" to save everything in the active tab at once
@@ -97,7 +97,7 @@ Most download extensions only look for basic video links on a page. Whop Downloa
 
 ## Trial & Pricing
 
-3 free downloads are included — no credit card required. Sign in with your email, verify with a one-time code, and your trial is ready immediately. Upgrade to a license for unlimited downloads at the [product page](https://serp.ly/whop-video-downloader).
+3 free downloads are included — no credit card required. Sign in with your email, verify with a one-time code, and your trial is ready immediately. Upgrade to a license for unlimited downloads at the [product page](https://serp.ly/whop-video-downloader?via=github).
 
 - Works on Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
 - Secure one-time-passcode sign-in — no passwords stored
