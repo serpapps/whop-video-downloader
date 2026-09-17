@@ -1,0 +1,108 @@
+{
+  "manifest_version": 3,
+  "name": "Downloader for Whop",
+  "version": "4.0.3",
+  "description": "One-click video downloads from Whop — fast, private, and full quality.",
+  "permissions": [
+    "downloads",
+    "activeTab",
+    "storage",
+    "tabs",
+    "scripting",
+    "offscreen"
+  ],
+  "host_permissions": [
+    "https://api.github.com/*",
+    "https://auth.serp.co/*",
+    "https://whop.com/*",
+    "https://*.whop.com/*",
+    "https://assets.whop.com/*",
+    "https://api.gumroad.com/*",
+    "https://stream.mux.com/*",
+    "https://image.mux.com/*",
+    "https://*.mux.com/*"
+  ],
+  "background": {
+    "service_worker": "serp-bundles/background-service-worker.graph.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://whop.com/*",
+        "https://*.whop.com/*"
+      ],
+      "js": [
+        "serp-bundles/content-1.graph.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": false
+    },
+    {
+      "matches": [
+        "https://whop.com/*",
+        "https://*.whop.com/*"
+      ],
+      "js": [
+        "serp-bundles/content-2.bundle.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+  ],
+  "action": {
+    "default_title": "Downloader for Whop",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "offscreen.html",
+        "offscreen.js",
+        "indexed-db.js"
+      ],
+      "matches": [
+        "https://whop.com/*",
+        "https://*.whop.com/*"
+      ]
+    },
+    {
+      "resources": [
+        "modules/**/*",
+        "download-manager/**/*"
+      ],
+      "matches": [
+        "https://whop.com/*",
+        "https://*.whop.com/*"
+      ]
+    },
+    {
+      "resources": [
+        "download-manager/integration-helper.js",
+        "download-manager/download-manager.js",
+        "download-manager/download-manager-ui.js",
+        "download-manager/download-manager-state.js",
+        "download-manager/download-manager-config.js"
+      ],
+      "matches": [
+        "https://whop.com/*",
+        "https://*.whop.com/*"
+      ],
+      "use_dynamic_url": true
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self';",
+    "sandbox": "sandbox allow-scripts allow-forms allow-popups allow-modals; script-src 'self' 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval'; child-src 'self';"
+  }
+}
